@@ -5,7 +5,7 @@ date_default_timezone_set('America/Lima');
 
 class mailing {
 
-    private $sendTo = 'german.sucari@gmail.com, scorpioluis@gmail.com';
+    private $sendTo = 'scorpioluis@gmail.com, nprentacar@gmail.com, nprentacar@hotmail.com';
     private $subject = 'Nueva Reserva';
 
     function setMessage($data) {
